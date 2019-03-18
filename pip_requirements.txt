@@ -1,0 +1,6 @@
+sqlalchemy
+simplejson
+scrapy
+scrapy_splash
+numpy
+psycopg2
